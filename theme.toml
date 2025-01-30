@@ -1,27 +1,40 @@
 [Colors]
-Text = 0xFFFFFFFF
-Window = 0xFF343434
-Background = 0xFF282828
+Text = 0xFF000000
+TextDisabled = 0xC0C0C0
+TextSelected = 0xadd6ff
+Window = 0xFFf8f8f8
+Background = 0xFFf8f8f8
 SelectedOutline = 0xFF00a8ec
-MenuFocused = 0xFFFFA000
+MenuFocused = 0xA4A6FF
 MenuSelected = 0xFFFF0000
 AutoCompleteSubText  = 0xB0B0B0
 AutoCompleteDocText = 0xC0C0C0
-AutoCompleteActiveText = 0xFFF8A9
+AutoCompleteActiveText = 0xFF00a8ec
 
-Code = 0xFFB98AFF
-Keyword = 0x569cd6
-PrimitiveType = 0x569cd6
-Struct = 0x86c691
-GenericParam = 0xC6E8B0
-Literal = 0xFFd69D85
-Identifier = 0xFFdcdcdc
-Type = 0x4ec9b0
-RefType = 0x4ec9b0
-Interface = 0xC6E8B0
-Comment = 0xFF80966C
-Method = 0xFFDBDB95
-Namespace = 0xFFAAAAAA
+# WorkspaceDisabledText = 0xFFFF00FF
+# WorkspaceFailedText = 0XFFFF00FF
+# WorkspaceManualIncludeText = 0xFFFF00FF
+# WorkspaceIgnoredText = 0xFFFF00FF
+
+Code = 0x3b3b3b
+Keyword = 0x0000ff
+Literal = 0xFFa31515
+
+Identifier = 0x001080
+Local = 0x1F377F
+Parameter = 0x1F377F
+Member = 0x8B008B
+Method = 0x74531F
+Comment = 0xFF008000
+
+Type = 0x2B91AF
+PrimitiveType = 0x0000ff
+Struct = 0x2B91AF
+RefType = 0x2B91AF
+Interface = 0x758968
+GenericParam = 0x2B91AF
+Namespace = 0x00048B
+
 DisassemblyText = 0xFFB0B0B0
 DisassemblyFileName = 0xFFFF0000
 
@@ -29,3 +42,9 @@ Error = 0xFFFF0000
 BuildError = 0xFFFF8080
 BuildWarning = 0xFFFFFF80
 VisibleWhiteSpace = 0xFF9090C0
+
+CurrentLineHilite = 0xf8f8f8
+CurrentLineNumberHilite = 0xf8f8f8
+CharPairHilite = 0xdbe0cc
+CodeHilite = 0xadd6ff
+CodeHiliteUnfocused = 0xFF0000FF
