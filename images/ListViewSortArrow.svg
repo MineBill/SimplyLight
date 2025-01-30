@@ -7,5 +7,6 @@
       }
     </style>
   </defs>
-  <path id="ListViewSortArrow" class="cls-1" d="M706.016,108.013H654l26.008,25.975Z" transform="translate(-640.015 -81)"/>
+  <path id="ListViewSortArrow" class="cls-1" d="M706.016,108.013H654l26.008,25.975Z"
+    transform="translate(-640.015 -81)" />
 </svg>

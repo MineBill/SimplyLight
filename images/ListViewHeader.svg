@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-  <defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
     <style>
-      .cls-1 {
-        fill: #424242;
-        fill-rule: evenodd;
-      }
+        .a {
+            fill: #eeeef2
+        }
     </style>
-  </defs>
-  <path id="ListViewHeader" class="cls-1" d="M560,160V100a20,20,0,0,1,20-20h40a20,20,0,0,1,20,20v60" transform="translate(-560 -80)"/>
+    <path fill-rule="evenodd" class="a"
+        d="m0 80v-60c0-2.6 0.5-5.2 1.5-7.7 1-2.4 2.5-4.6 4.4-6.4 1.8-1.9 4-3.4 6.4-4.4 2.5-1 5.1-1.5 7.7-1.5h40c2.6 0 5.2 0.5 7.7 1.5 2.4 1 4.6 2.5 6.4 4.4 1.9 1.8 3.4 4 4.4 6.4 1 2.5 1.5 5.1 1.5 7.7v60" />
 </svg>

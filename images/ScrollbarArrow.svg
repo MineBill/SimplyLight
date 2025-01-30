@@ -1,11 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-  <defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
     <style>
-      .cls-1 {
-        fill: #8a8a8a;
-        fill-rule: evenodd;
-      }
+        .a {
+            fill: #868999
+        }
     </style>
-  </defs>
-  <path id="ScrollbarArrow" class="cls-1" d="M1070.01,100.988V140l25.98-19.506Z" transform="translate(-1043 -80.5)"/>
+    <path fill-rule="evenodd" class="a" d="m27 20.5v39l26-19.5z" />
 </svg>

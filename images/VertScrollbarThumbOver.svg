@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-  <defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
     <style>
-      .cls-1 {
-        fill: #404040;
-      }
+        .a {
+            fill: #c2c3c9
+        }
     </style>
-  </defs>
-  <rect id="VertScrollbarThumbOver" class="cls-1" x="10" y="8" width="60" height="64" rx="20" ry="20"/>
+    <path fill-rule="evenodd" class="a"
+        d="m30 8h20c11 0 20 9 20 20v24c0 11-9 20-20 20h-20c-11 0-20-9-20-20v-24c0-11 9-20 20-20z" />
 </svg>

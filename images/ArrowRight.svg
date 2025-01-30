@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
-  <defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
     <style>
-      .cls-1 {
-        fill: #b3b3b3;
-        fill-rule: evenodd;
-      }
+        .a {
+            fill: #b3b3b3;
+            stroke: #b3b3b3;
+            stroke-linejoin: round;
+            stroke-width: 4
+        }
     </style>
-  </defs>
-  <path id="ArrowRight" class="cls-1" d="M355.013,92.015V144l25.975-25.992Z" transform="translate(-328 -78)"/>
+    <path fill-rule="evenodd" class="a" d="m27 14v52l26-26z" />
 </svg>
