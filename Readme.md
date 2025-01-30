@@ -1,19 +1,11 @@
-# Simply Dark
-Custom Beef IDE theme
-![](screens/screen.png)
+# Simply Light
+A light theme for the Beef IDE.
 
-# Works only with latest nightly build of IDE!
+This theme is fork of [SimplyDark](https://github.com/M0n7y5/BeefIDE-SimplyDark) and was developed with the help of [BeefIDEThemeGen](https://github.com/M0n7y5/BeefIDEThemeGen)!
 
-# Installation
-1. Just download zip from Releases page
-2. Unzip and copy SimplyDark folder to `C:\Program Files\BeefLang\bin\themes` (create folder `themes` if its needed)
-3. Write theme name in theme settings
-    
-![](screens/settings.png)
+## Screenshots
 
-4. Hit Apply button
-5. Profit
-
-![](screens/inspection.png)
-
-![](screens/inspection2.png)
+## Installation
+1. Clone the repository inside `%BEEF_INSTALL_DIR%\bin\themes` where `%BEEF_INSTALL_DIR%` is the installation directory of Beef.
+2. Set the theme name to `SimplyLight` under `File > Preferences > UI > General > Theme` and hit apply.
+3. Make sure to restart the IDE for the colors to be properly reloaded.
