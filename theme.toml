@@ -47,4 +47,4 @@ CurrentLineHilite = 0xf8f8f8
 CurrentLineNumberHilite = 0xf8f8f8
 CharPairHilite = 0xdbe0cc
 CodeHilite = 0xadd6ff
-CodeHiliteUnfocused = 0xFF0000FF
+CodeHiliteUnfocused = 0xb1c1e1
